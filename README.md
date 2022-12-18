@@ -16,6 +16,11 @@ Reproduction and improvement results from the related article.
 ### [nb010_create_labels_for_tweets.ipynb](notebooks/nb010_create_labels_for_tweets.ipynb)  
 Prepare new dataset with corrected preprocessing and labeling.
 
+### [nb200_model-ant1-RNN-with-Optuna.ipynb](notebooks/nb200_model-ant1-RNN-with-Optuna.ipynb)  
+Draft of train and test RNN (LSTM / GRU) with Optuna tuning. 
+Currently not finished yet.
+
+
 ### [nb250_model_catboost_transformer.ipynb](notebooks/nb250_model_catboost_transformer.ipynb)  
 Train and test CatBoost and Tranformer (Roberta) models.
 
