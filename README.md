@@ -28,3 +28,7 @@ Train and test CatBoost and Tranformer (Roberta) models.
 Train and test Naive Bayes model.
 Creating ensemble of 3 models (Naive Bayes, CatBoost, Transformer).
 
+
+### [nb320_added_business_metrics.ipynb](notebooks/nb320_added_business_metrics.ipynb)   
+Calculate business metrics (profit, Sharpe Ratio, etc.) for the specified data and model parameters.
+The notebook could be launched either manually or in the batch mode (nb320_batch_launch.sh).

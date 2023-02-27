@@ -1,0 +1,1 @@
+python -u nb320_batch_launch.py 2>&1 | tee -a '_OUT/__log.txt'
